@@ -1,0 +1,10 @@
+C:\Users\emely\source\repos\GoogleKickStart\Sort_a_scrambled_itinerary\bin\Debug\Sort_a_scrambled_itinerary.exe.config
+C:\Users\emely\source\repos\GoogleKickStart\Sort_a_scrambled_itinerary\bin\Debug\Sort_a_scrambled_itinerary.exe
+C:\Users\emely\source\repos\GoogleKickStart\Sort_a_scrambled_itinerary\bin\Debug\Sort_a_scrambled_itinerary.pdb
+C:\Users\emely\source\repos\GoogleKickStart\Sort_a_scrambled_itinerary\obj\Debug\Sort_a_scrambled_itinerary.csprojAssemblyReference.cache
+C:\Users\emely\source\repos\GoogleKickStart\Sort_a_scrambled_itinerary\obj\Debug\Sort_a_scrambled_itinerary.Form1.resources
+C:\Users\emely\source\repos\GoogleKickStart\Sort_a_scrambled_itinerary\obj\Debug\Sort_a_scrambled_itinerary.Properties.Resources.resources
+C:\Users\emely\source\repos\GoogleKickStart\Sort_a_scrambled_itinerary\obj\Debug\Sort_a_scrambled_itinerary.csproj.GenerateResource.cache
+C:\Users\emely\source\repos\GoogleKickStart\Sort_a_scrambled_itinerary\obj\Debug\Sort_a_scrambled_itinerary.csproj.CoreCompileInputs.cache
+C:\Users\emely\source\repos\GoogleKickStart\Sort_a_scrambled_itinerary\obj\Debug\Sort_a_scrambled_itinerary.exe
+C:\Users\emely\source\repos\GoogleKickStart\Sort_a_scrambled_itinerary\obj\Debug\Sort_a_scrambled_itinerary.pdb
